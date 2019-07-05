@@ -1,0 +1,15 @@
+[
+    {"key":"status","headerName":"数据状态"},
+    {"key":"menuCode","headerName":"菜单编码"},
+    {"key":"menuName","headerName":"菜单名称"},
+    {"key":"menuFlag","headerName":"菜单类别"},
+    {"key":"isSystem","headerName":"是否系统菜单"},
+    {"key":"menuType","headerName":"菜单类型"},
+    {"key":"url","headerName":"菜单路径"},
+    {"key":"icon","headerName":"菜单图标"},
+    {"key":"orderNo","headerName":"顺序号"},
+    {"key":"insertUser","headerName":"新增用户"},
+    {"key":"insertTime","headerName":"新增时间"},
+    {"key":"updateUser","headerName":"修改用户"},
+    {"key":"updateTime","headerName":"修改时间"}
+]
